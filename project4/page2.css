@@ -1,0 +1,86 @@
+
+.home{
+          background-color: rgba(0, 0, 0, 0.673);
+height: 500px;
+    background-image: url("dark-wood.png");
+    background-repeat: no-repeat;
+ background-size: cover; 
+ color: white;
+ font-size: 20px;
+}
+.i{
+    width: 100%;
+    background-color: red;
+    
+}
+.logo img{
+
+    width: 150px;
+    height: 40px;
+   
+}
+button{
+    color: green;
+}
+[href]{
+    
+    color: white;
+
+}
+.about{
+   background-color: rgba(0, 0, 255, 0.549);
+height: 500px;
+    background-image: url("dark-wood.png");
+    background-repeat: no-repeat;
+ background-size: cover; 
+ color: white;
+    font-size: 20px;
+
+}
+
+.i2 img{
+    width: 100px;
+    height: 100px;
+}
+.about2{
+      background-color: rgba(0, 0, 255, 0.549);
+height: 600px;
+    background-image: url("dark-wood.png");
+    background-repeat: no-repeat;
+ background-size: cover; 
+ color: white;
+ font-size: 20px;
+}
+.i3 img{
+    width: 100px;
+    height: 100px;
+}
+.about3{
+         background-color: rgba(0, 0, 255, 0.549);
+height: 500px;
+    background-image: url("dark-wood.png") ;
+    background-repeat: no-repeat;
+ background-size: cover; 
+ color: white;
+ font-size: 20px;
+}
+.about4{
+           background-color: rgba(0, 0, 255, 0.549);
+     height: 550px;
+    background-image: url("dark-wood.png") ;
+    background-repeat: no-repeat;
+ background-size: cover; 
+ color: white;
+ font-size: 20px; 
+}
+span{
+    color:aqua;
+}
+.img{
+        background-color: rgba(0, 0, 255, 0.549);
+   height: 180px;
+    background-image: url("dark-wood.png") ;
+    background-repeat: no-repeat;
+ background-size: cover;
+ color: white;
+}
